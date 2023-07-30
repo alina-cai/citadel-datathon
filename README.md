@@ -21,5 +21,5 @@ We decided to go in-depth about the following topics:
 02 Is there a specific weather severity threshold or a particular season during which flights are disproportionately impacted by delays?
 
 ### Submissions
-- Report
+- [Report](https://github.com/alina-cai/citadel-datathon/blob/main/Report.pdf)
 - Code
