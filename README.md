@@ -2,6 +2,9 @@
 
 ## Team 11
 
+### About Us
+Four computer science students from Carnegie Mellon, Cornell, John Hopkins, and Waterloo, respectively.
+
 ### Datathon Description
 Highly selective datathon hosted by Citadel, Citadel Securities and Correlation-One for students passionate about data science from top universities around the world. A total of 80 competitors were selected out of a couple thousand applicants.
 
